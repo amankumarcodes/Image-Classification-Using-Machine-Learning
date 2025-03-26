@@ -1,4 +1,5 @@
-# 🖼️ Image Classification Using Machine Learning - AICTE Internship Project
+# 🖼️ Image Classification Using Machine Learning 
+**AICTE Internship Project**
 
 ## 🚀 Introduction
 This repository contains the project **Image Classification Using Machine Learning**, developed during the AICTE Internship. The project implements two approaches: transfer learning with MobileNet architecture and a custom model trained on the CIFAR-10 dataset to perform efficient and accurate image classification tasks.
@@ -84,14 +85,14 @@ The MobileNet transfer learning approach achieved higher accuracy with fewer tra
 ## 🖼️ Result Snapshots
 
 ### CIFAR-10 Model Results
-![CIFAR-10 Classification Results](data/processed/cifar10_results.png)
+![CIFAR-10 Classification Results](data/processed/cifar10_results.jpg)
 
-![CIFAR-10 Classification Results](data/processed/cifar10_result.png)
+![CIFAR-10 Classification Results](data/processed/cifar10_result.jpg)
 
 ### MobileNet Transfer Learning Results
-![MobileNet Classification Results](data/processed/mobilenet_results.png)
+![MobileNet Classification Results](data/processed/mobilenet_results.jpg)
 
-![MobileNet Classification Results](data/processed/mobilenet_result.png)
+![MobileNet Classification Results](data/processed/mobilenet_result.jpg)
 
 
 ## 🙏 Acknowledgements
