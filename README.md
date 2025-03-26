@@ -42,7 +42,7 @@ jupyter notebook
 The repository structure is as follows:
 
 ```
-P1-Image-Classification-by-Machine-Learning-AICTE-Internship/
+Image-Classification-by-Machine-Learning/
 ├── 📁 data/                       # Directory containing dataset files
 │   ├── 📁 raw/                    # Raw image data
 │   └── 📁 processed/              # Preprocessed images
@@ -84,10 +84,14 @@ The MobileNet transfer learning approach achieved higher accuracy with fewer tra
 ## 🖼️ Result Snapshots
 
 ### CIFAR-10 Model Results
-![CIFAR-10 Classification Results](images/cifar10_results.png)
+![CIFAR-10 Classification Results](data/processed/cifar10_results.png)
+
+![CIFAR-10 Classification Results](data/processed/cifar10_result.png)
 
 ### MobileNet Transfer Learning Results
-![MobileNet Classification Results](images/mobilenet_results.png)
+![MobileNet Classification Results](data/processed/mobilenet_results.png)
+
+![MobileNet Classification Results](data/processed/mobilenet_result.png)
 
 
 ## 🙏 Acknowledgements
